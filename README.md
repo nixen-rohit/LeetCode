@@ -85,6 +85,25 @@
 
 > Generated directly via a GitHub Actions workflow in this repo (not a third-party API) — see the [contribution-snake action](https://github.com/Platane/snk) for setup.
 
+### 📋 Profile Summary
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nixen-rohit&theme=vision_friendly_dark" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nixen-rohit&theme=vision_friendly_dark" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nixen-rohit&theme=vision_friendly_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nixen-rohit&theme=vision_friendly_dark" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nixen-rohit&theme=vision_friendly_dark&utcOffset=8" />
+</p>
+
 ---
 
 ### ✍️ Dev Quote
