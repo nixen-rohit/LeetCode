@@ -77,22 +77,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Contribution Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nixen-rohit&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nixen-rohit&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github.com/nixen-rohit/nixen-rohit/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nixen-rohit&theme=radical&hide_border=true" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nixen-rohit&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</p>
+> Generated directly via a GitHub Actions workflow in this repo (not a third-party API) — see the [contribution-snake action](https://github.com/Platane/snk) for setup.
 
 ---
 
@@ -103,9 +94,5 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 <p align="center"><i>Thanks for stopping by — always happy to connect and collaborate! 🚀</i></p>
