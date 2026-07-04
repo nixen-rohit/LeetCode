@@ -87,23 +87,21 @@
 
 ### 📋 Profile Summary
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nixen-rohit&theme=vision_friendly_dark" />
-</p>
+Markdown Usage
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nixen-rohit&theme=vision_friendly_dark)
+Markdown Usage
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nixen-rohit&theme=vision_friendly_dark)
+Markdown Usage
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nixen-rohit&theme=vision_friendly_dark)
+Markdown Usage
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nixen-rohit&theme=vision_friendly_dark)
+Markdown Usage
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nixen-rohit&theme=vision_friendly_dark&utcOffset=8)
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nixen-rohit&theme=vision_friendly_dark" />
-</p>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nixen-rohit&theme=vision_friendly_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nixen-rohit&theme=vision_friendly_dark" />
-</p>
+ 
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nixen-rohit&theme=vision_friendly_dark&utcOffset=8" />
-</p>
-
+ 
 ---
 
 ### ✍️ Dev Quote
