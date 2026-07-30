@@ -10,6 +10,8 @@ public:
             nums[i]*=nums[i];
         }
 
+         
+
         int first = 0;
         int last = n - 1;
 
