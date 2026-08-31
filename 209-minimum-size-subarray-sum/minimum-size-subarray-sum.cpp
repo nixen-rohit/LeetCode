@@ -9,7 +9,6 @@ public:
         int sum = 0;
 
         while (high < n) {
-
             sum = sum + nums[high];
 
             while (sum >= target) {
@@ -19,12 +18,9 @@ public:
                 sum = sum - nums[low];
                 low++;
             }
-
             high++;
         }
 
         return res == INT_MAX ? 0 : res;
-
-     
     }
 };
